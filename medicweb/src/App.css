@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    z-index: 20;
+    
+    
+}
+
+.declareform{
+    position: absolute;
+    top:0;
+    right: 0;
+    z-index: 99;
+    
+    
+}
+
+.declareform.hidden{
+    display: none;   
+}
+
+.booknow.hidden{
+    
+}
